@@ -1,0 +1,150 @@
+24 23 3024
+German
+Barroso
+6 64 3006
+Hernan
+Núñez
+47 50 0
+Juan
+Barroso
+27 37 3027
+Jose
+García
+28 72 3028
+German
+Barroso
+46 23 3046
+Ricardo
+Acosta
+36 51 3036
+Ricardo
+Morales
+30 26 3030
+Hernan
+Núñez
+18 20 3018
+Jose
+Barroso
+7 66 0
+Hernan
+Acosta
+44 13 3044
+Hernan
+Garmendia
+37 15 0
+Juan
+Garmendia
+21 30 3021
+Ricardo
+Núñez
+12 38 3012
+Maria
+Garmendia
+43 55 0
+Jose
+Núñez
+49 17 3049
+Ricardo
+Núñez
+48 54 3048
+Maria
+Barroso
+10 75 3010
+Maria
+Morales
+25 63 3025
+Juan
+Garmendia
+33 27 3033
+German
+Garmendia
+41 80 0
+Juan
+Garmendia
+3 14 0
+Maria
+Acosta
+13 10 0
+Ricardo
+Acosta
+34 25 3034
+Maria
+Barroso
+35 26 3035
+Ricardo
+Morales
+22 55 3022
+Juan
+Garmendia
+2 42 0
+Juan
+Barroso
+23 71 0
+German
+García
+1 36 0
+Hernan
+Garmendia
+40 73 3040
+Hernan
+Garmendia
+14 42 3014
+Jose
+Garmendia
+0 61 0
+Jose
+Acosta
+5 36 0
+Hernan
+García
+15 35 3015
+German
+Barroso
+32 28 3032
+Hernan
+Acosta
+20 79 3020
+Juan
+Morales
+8 59 3008
+Maria
+Núñez
+17 11 0
+Jose
+Núñez
+29 22 0
+Maria
+García
+11 76 0
+German
+Barroso
+26 46 3026
+German
+Acosta
+4 35 3004
+Jose
+Morales
+38 53 3038
+Juan
+Garmendia
+31 49 0
+German
+Núñez
+9 35 3009
+German
+Acosta
+45 42 3045
+Juan
+Acosta
+39 25 3039
+Maria
+Garmendia
+19 48 0
+German
+Núñez
+16 75 3016
+Maria
+Núñez
+42 15 3042
+Hernan
+García

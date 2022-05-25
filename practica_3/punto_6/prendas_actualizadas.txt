@@ -1,0 +1,120 @@
+13 14 333.00
+buena ropa
+rojo
+remera
+14 7 489.00
+una descripcion
+violeta
+zapatillas
+11 37 355.00
+buena ropa
+violeta
+gorra
+41 33 335.00
+buena ropa
+violeta
+pantalon
+48 24 420.00
+no se que ropa es
+azul
+remera
+16 16 113.00
+mala calidad
+azul
+remera
+23 24 285.00
+mala calidad
+violeta
+medias
+15 26 92.00
+una descripcion
+azul
+zapatillas
+42 13 118.00
+una descripcion
+violeta
+gorra
+21 24 62.00
+buena ropa
+azul
+pantalon
+38 7 48.00
+no se que ropa es
+violeta
+zapatillas
+24 16 186.00
+una descripcion
+azul
+zapatillas
+9 41 499.00
+mala calidad
+verde
+gorra
+33 15 354.00
+no se que ropa es
+azul
+remera
+17 20 129.00
+una descripcion
+verde
+zapatillas
+46 26 12.00
+mala calidad
+azul
+gorra
+37 41 436.00
+una descripcion
+rojo
+medias
+20 38 308.00
+mala calidad
+verde
+pantalon
+43 29 299.00
+mala calidad
+azul
+medias
+30 16 187.00
+no se que ropa es
+rojo
+medias
+3 21 144.00
+buena ropa
+rojo
+gorra
+34 24 161.00
+buena ropa
+rojo
+medias
+29 41 304.00
+mala calidad
+azul
+zapatillas
+45 9 137.00
+buena ropa
+rojo
+remera
+10 35 224.00
+buena ropa
+azul
+medias
+0 29 72.00
+mala calidad
+verde
+medias
+27 40 254.00
+una descripcion
+verde
+gorra
+39 16 169.00
+mala calidad
+violeta
+zapatillas
+25 46 479.00
+buena ropa
+verde
+pantalon
+26 46 113.00
+una descripcion
+violeta
+pantalon

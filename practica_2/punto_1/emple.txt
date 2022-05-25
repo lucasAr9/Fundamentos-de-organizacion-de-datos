@@ -1,0 +1,50 @@
+0 2667
+Mili
+0 2600
+Mili
+0 2656
+Mili
+3 1658
+Luis
+3 1698
+Luis
+3 1667
+Luis
+4 6419
+Juan
+5 1725
+Juan
+6 2285
+Jorge
+7 1426
+Mili
+8 171
+Mili
+8 121
+Mili
+8 115
+Mili
+9 3419
+Juan
+10 2271
+Juan
+10 2601
+Juan
+10 2611
+Juan
+12 2426
+Jorge
+13 2390
+Jorge
+14 1463
+Jorge
+15 2015
+Mara
+19 2085
+Jorge
+19 2985
+Jorge
+19 2185
+Jorge
+20 26993
+Mili

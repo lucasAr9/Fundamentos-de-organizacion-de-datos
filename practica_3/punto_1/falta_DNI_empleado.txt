@@ -1,0 +1,51 @@
+ 47 50 0
+Juan
+Barroso
+ 7 66 0
+Hernan
+Acosta
+ 37 15 0
+Juan
+Garmendia
+ 43 55 0
+Jose
+Núñez
+ 41 80 0
+Juan
+Garmendia
+ 3 14 0
+Maria
+Acosta
+ 13 10 0
+Ricardo
+Acosta
+ 2 42 0
+Juan
+Barroso
+ 23 71 0
+German
+García
+ 1 36 0
+Hernan
+Garmendia
+ 0 61 0
+Jose
+Acosta
+ 5 36 0
+Hernan
+García
+ 17 11 0
+Jose
+Núñez
+ 29 22 0
+Maria
+García
+ 11 76 0
+German
+Barroso
+ 31 49 0
+German
+Núñez
+ 19 48 0
+German
+Núñez

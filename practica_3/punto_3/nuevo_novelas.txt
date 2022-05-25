@@ -1,0 +1,88 @@
+-1 0.00 0.00
+n
+n
+n
+0 89.00 181.00
+drama
+Aftermath
+Núñez
+42 40.00 170.00
+terror
+Spider-Man
+Acosta
+46 100.00 120.00
+ciencia ficción
+TLOTR
+Barroso
+49 41.00 112.00
+drama
+Prey
+García
+26 51.00 120.00
+ciencia ficción
+Prey
+Núñez
+39 63.00 163.00
+drama
+Spider-Man
+Barroso
+17 49.00 147.00
+comedia
+Aftermath
+Garmendia
+30 73.00 147.00
+drama
+Prey
+Acosta
+13 95.00 191.00
+ciencia ficción
+TLOTR
+Acosta
+45 90.00 158.00
+drama
+Spider-Man
+Morales
+24 54.00 123.00
+drama
+The Batman
+Núñez
+3 70.00 175.00
+terror
+The Batman
+Núñez
+44 96.00 125.00
+comedia
+Spider-Man
+Núñez
+0 55.00 106.00
+comedia
+TLOTR
+Barroso
+15 30.00 179.00
+ciencia ficción
+Spider-Man
+Morales
+4 54.00 147.00
+comedia
+The Batman
+Garmendia
+47 48.00 109.00
+ciencia ficción
+Spider-Man
+Acosta
+10 37.00 138.00
+ciencia ficción
+Aftermath
+Acosta
+7 65.00 155.00
+drama
+ñarña
+Acosta
+9 39.00 173.00
+comedia
+TLOTR
+Garmendia
+99 47.00 209.00
+n
+un nombre
+un director

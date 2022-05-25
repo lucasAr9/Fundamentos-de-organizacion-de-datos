@@ -1,0 +1,45 @@
+1 23 42
+Carlos
+Hernandes
+2 50 53
+Juan
+Pepitos
+3 54 2
+Maria
+Misk
+4 50 46
+Maria
+Pepitos
+5 25 43
+Oto
+Hernandes
+6 50 35
+Maria
+Otos
+7 47 39
+Oto
+Hernandes
+8 6 55
+Carlos
+D mari
+9 52 35
+Oto
+Hernandes
+10 2 21
+Jose
+Otos
+11 37 0
+Maria
+D mari
+12 0 18
+Jose
+D mari
+13 20 31
+Carlos
+Otos
+14 18 34
+Jose
+Hernandes
+15 21 1
+Oto
+Pepitos

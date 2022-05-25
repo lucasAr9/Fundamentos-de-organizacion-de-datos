@@ -1,0 +1,200 @@
+19 17 224.0
+mala calidad
+rojo
+gorra
+35 37 279.0
+no se que ropa es
+azul
+zapatillas
+47 5 137.0
+no se que ropa es
+rojo
+pantalon
+13 14 333.0
+buena ropa
+rojo
+remera
+14 7 489.0
+una descripcion
+violeta
+zapatillas
+6 40 156.0
+una descripcion
+rojo
+zapatillas
+4 47 415.0
+una descripcion
+rojo
+medias
+11 37 355.0
+buena ropa
+violeta
+gorra
+41 33 335.0
+buena ropa
+violeta
+pantalon
+48 24 420.0
+no se que ropa es
+azul
+remera
+16 16 113.0
+mala calidad
+azul
+remera
+23 24 285.0
+mala calidad
+violeta
+medias
+15 26 92.0
+una descripcion
+azul
+zapatillas
+42 13 118.0
+una descripcion
+violeta
+gorra
+21 24 62.0
+buena ropa
+azul
+pantalon
+38 7 48.0
+no se que ropa es
+violeta
+zapatillas
+7 35 265.0
+mala calidad
+rojo
+gorra
+40 31 108.0
+una descripcion
+azul
+pantalon
+24 16 186.0
+una descripcion
+azul
+zapatillas
+36 41 462.0
+no se que ropa es
+azul
+zapatillas
+9 41 499.0
+mala calidad
+verde
+gorra
+18 37 298.0
+buena ropa
+azul
+pantalon
+33 15 354.0
+no se que ropa es
+azul
+remera
+17 20 129.0
+una descripcion
+verde
+zapatillas
+1 23 431.0
+mala calidad
+rojo
+medias
+46 26 12.0
+mala calidad
+azul
+gorra
+37 41 436.0
+una descripcion
+rojo
+medias
+5 9 35.0
+buena ropa
+azul
+medias
+12 48 293.0
+mala calidad
+violeta
+gorra
+20 38 308.0
+mala calidad
+verde
+pantalon
+8 39 164.0
+no se que ropa es
+azul
+pantalon
+43 29 299.0
+mala calidad
+azul
+medias
+32 7 216.0
+no se que ropa es
+azul
+pantalon
+31 13 31.0
+una descripcion
+azul
+remera
+2 12 478.0
+mala calidad
+violeta
+remera
+30 16 187.0
+no se que ropa es
+rojo
+medias
+3 21 144.0
+buena ropa
+rojo
+gorra
+22 22 462.0
+una descripcion
+verde
+gorra
+44 25 245.0
+mala calidad
+violeta
+medias
+49 9 92.0
+mala calidad
+rojo
+medias
+34 24 161.0
+buena ropa
+rojo
+medias
+29 41 304.0
+mala calidad
+azul
+zapatillas
+45 9 137.0
+buena ropa
+rojo
+remera
+10 35 224.0
+buena ropa
+azul
+medias
+0 29 72.0
+mala calidad
+verde
+medias
+27 40 254.0
+una descripcion
+verde
+gorra
+39 16 169.0
+mala calidad
+violeta
+zapatillas
+25 46 479.0
+buena ropa
+verde
+pantalon
+26 46 113.0
+una descripcion
+violeta
+pantalon
+28 45 75.0
+una descripcion
+rojo
+remera
