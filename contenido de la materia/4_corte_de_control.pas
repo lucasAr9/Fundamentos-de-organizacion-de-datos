@@ -48,8 +48,7 @@ BEGIN
                 writeln('Sucursal: ', reg.sucursal);
                 sucursal:= reg.sucursal;
                 total_sucursal:= 0;
-                while (prov = reg.provincia) and (ciudad = reg.ciudad)
-                        and (sucursal = reg.sucursal) do begin
+                while (prov = reg.provincia) and (ciudad = reg.ciudad) and (sucursal = reg.sucursal) do begin
                     write('Vendedor: ', reg.vendedor);
                     writeln(reg.monto);
                     total_sucursal:= total_sucursal + reg.monto;

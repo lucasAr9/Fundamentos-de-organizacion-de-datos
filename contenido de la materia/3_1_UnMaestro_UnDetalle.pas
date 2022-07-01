@@ -1,4 +1,4 @@
-{ queremos actualizar las ventas de un producot con un maestro y un detalle }
+{ queremos actualizar las ventas de un producto con un maestro y un detalle }
 program maestro_detalle;
 
 const
